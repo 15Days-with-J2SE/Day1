@@ -14,13 +14,13 @@
 1. 命令`javac HelloWorld.java`，编译出.class文件；
 1. 命令`java HelloWorld`执行字节码文件；
 1. Tab键可进行文件名快速补全；<br>
-![cmd界面](https://github.com/15Days-with-J2SE/Day1/blob/master/pic/cmd-HelloWorld.png "HelloWorld命令行")
+![cmd界面](https://github.com/15Days-with-J2SE/Day1/blob/master/pic/cmd-HelloWorld.png "HelloWorld命令行")<br>
 此处java运行命令与上方表述不同，其原因在于（测试）：<br>
-![test](https://github.com/15Days-with-J2SE/Day1/blob/master/pic/classFileName.png "类名定义")
+![test](https://github.com/15Days-with-J2SE/Day1/blob/master/pic/classFileName.png "类名定义")<br>
 
 
 ## 数据类型
-![数据类型](https://github.com/15Days-with-J2SE/Day1/blob/master/pic/数据类型.png "数据类型")
+![数据类型](https://github.com/15Days-with-J2SE/Day1/blob/master/pic/数据类型.png "数据类型")<br>
 
 
 #### 基本数据类型
