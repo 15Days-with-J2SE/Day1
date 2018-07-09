@@ -15,17 +15,16 @@
 1. 命令`java HelloWorld`执行字节码文件；<br>
 1. Tab键可进行文件名快速补全；
 <div align=center>
-![cmd界面](./pic/Hello World命令行.png "Hello World命令行")<br>
+![cmd界面](https://github.com/15Days-with-J2SE/Day1/blob/master/pic/HelloWorld命令行.png "HelloWorld命令行")<br>
 </div>
 此处java运行命令与上方表述不同，其原因在于（测试）：<br>
-<div align=center>
-![cmd界面](./pic/.class文件名.png "类名定义")<br>
-</div>
+![cmd界面](https://github.com/15Days-with-J2SE/Day1/blob/master/pic/class文件名.png "类名定义")<br>
+
 
 ## 数据类型
-<div align=center>
-![数据类型](./pic/数据类型.png "数据类型")
-</div>
+![数据类型](https://github.com/15Days-with-J2SE/Day1/blob/master/pic/数据类型.png "数据类型")
+
+
 #### 基本数据类型
 1. 值溢出问题（[BasicType][basictype]）；
 ```JavaScript
@@ -198,14 +197,21 @@
         return result;
     }
 ```
-在习题3中，原采用方案1；经过老师的讲解，对方案1进行了优化，两者所得结果均为267333（包括1000），目前暂未发现问题；
+在习题3中，原采用方案1；经过老师的讲解，对方案1进行了优化，两者所得结果均为267333（包括1000），目前暂未发现问题；<br>
 
 ## 其他
 程序编写习惯。<br>
 扩展的是解决问题的思路。<br>
 
-[basictype]:https://github.com/15Days-with-J2SE/Day1/src/BasicType.java
-[mt]:https://github.com/15Days-with-J2SE/Day1/src/MultiplicationTable.java
-[recursive]:https://github.com/15Days-with-J2SE/Day1/src/Recursive.java
-[tower]:https://github.com/15Days-with-J2SE/Day1/src/Tower.java
-[homework]:https://github.com/15Days-with-J2SE/Day1/src/Homework.java
+## 文档相关
+    Edit:       Notepad++ 
+    Preview:    Moeditor
+    Language:   Markdown & HTML
+    Encoding:   UTF-8
+    Edits:      1
+
+[basictype]:https://github.com/15Days-with-J2SE/Day1/blob/master/src/BasicType.java
+[mt]:https://github.com/15Days-with-J2SE/Day1/blob/master/src/MultiplicationTable.java
+[recursive]:https://github.com/15Days-with-J2SE/blob/master/Day1/src/Recursive.java
+[tower]:https://github.com/15Days-with-J2SE/Day1/blob/master/src/Tower.java
+[homework]:https://github.com/15Days-with-J2SE/Day1/blob/master/src/Homework.java
